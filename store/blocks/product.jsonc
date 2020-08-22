@@ -70,5 +70,12 @@
       "isOneClickBuy": true,
       "showTooltipOnSkuNotSelected": false
     }
+  },
+  "sku-selector": {
+    "props": {
+      "initialSelection": "empty",
+      "showValueForVariation": "image",
+      "showVariationsErrorMessage": true
+    }
   }
 }
