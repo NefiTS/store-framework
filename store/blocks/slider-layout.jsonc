@@ -33,13 +33,14 @@
         "image#brand5": {
             "props": {
               "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square5.png"
-            },
-            "image#brand6": {
-                "props": {
-                  "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png"
-                }
+
+            }
+
+        },
+        "image#brand6": {
+            "props": {
+                "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png"
             }
         }
-        
-}
+    }
 
