@@ -91,8 +91,7 @@
     "props": {
       "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
       "textPosition": "CENTER",
-      "textAlignment": "CENTER",
-      "maxWidth": "100%"
+      "textAlignment": "CENTER"
     }
   },
   
@@ -100,8 +99,7 @@
     "props": {
       "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
       "textPosition": "CENTER",
-      "textAlignment": "CENTER",
-      "maxWidth": "100%"
+      "textAlignment": "CENTER"
     }
   },
   "image#desktop": {
